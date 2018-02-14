@@ -42,12 +42,14 @@ for example:
 	
 	in our example you'll be retrieving:
 	
-	```swift link,full_picture,name,created_time,type,shares,likes{pic_small,id,name},source,message,description,icon
+	```
+	link,full_picture,name,created_time,type,shares,likes{pic_small,id,name},source,message,description,icon
+	
 	```
 
 you might need more or less so feel free to adjust accordingly. Have in mind that if you have additional properties without having persmissions for them FB might raise an objection( or two)
 	
-	## Cocoapods used
+## Cocoapods used
 	* (Alamofire)[https://cocoapods.org/pods/Alamofire]
 	* (SwiftyJSON)[https://cocoapods.org/pods/SwiftyJSON]
 	
