@@ -2,6 +2,9 @@
 
 iOS facebook feed using a Table View Controller, swift 4
 
+![Image of facebook feed in a Table View Controller](https://github.com/thrasos/Facebook-Feed-News/blob/master/facebookfeed.png)
+
+
 
 So you 've decided to use a facebook fan page's feed in your mobile app.
 I don't know why you'd want to do this but I assume you do, so here goes:
