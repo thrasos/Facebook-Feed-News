@@ -35,7 +35,7 @@ otherwise just go here and copy paste your short-lived access token.
 and replace:
 
 
-"YOUR_FAN_PAGE" with the name of the fan page you wan to retrieve posts from.
+"YOUR_FAN_PAGE" with the name of the fan page you wanτ to retrieve posts from.
 
 "YOUR_ACCESS_TOKEN" with the access token of your app your got earlier.
 
