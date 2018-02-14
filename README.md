@@ -13,10 +13,12 @@ Basically it performs a GET request and retrieves the JSON from facebook based o
 ## Facebook bureaucracy 
 
 1. Go to developers.facebook.com
+
 1.1 Login and create an app
+
 1.2. Fill in the form and the privacy policy and make the app public.
 
-3. Go to the access token facebook site and copy/paste the token for your app.
+2. Go to the access token facebook site and copy/paste the token for your app.
 You might want to get a long lived access token or one without a an expiry date.
 
 [here](https://medium.com/@Jenananthan/how-to-create-non-expiry-facebook-page-token-6505c642d0b1)
@@ -25,7 +27,7 @@ otherwise just go here and copy paste your short-lived access token.
  https://developers.facebook.com/tools/accesstoken/
 
 ## Add your properties in the code
-4. Go to function getFacebookFeed()
+3. Go to function getFacebookFeed()
 
 and replace
 
