@@ -3,7 +3,7 @@
 //  FacebookFeed
 //
 //  Created by Thrasos on 19/01/2018.
-//  Copyleft © 2018 Thrasos. All rights reserved.
+//  Copyleft © 2018 Thrasos. 
 //
 
 import UIKit
